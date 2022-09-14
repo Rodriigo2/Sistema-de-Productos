@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    height: 65px;
+    background-color: #cfffdd;
+    text-align: center;
+}
+
+.form-container{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.listado{
+    padding-left: 500px;
+}
